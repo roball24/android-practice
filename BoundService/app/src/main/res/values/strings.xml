@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BoundService</string>
+    <string name="button_text">What\'s The Time</string>
+</resources>
